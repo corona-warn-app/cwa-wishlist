@@ -1,6 +1,6 @@
 # Corona-Warn-App: Community Wishlist
 
-<a href="https://github.com/Exposure-Notification-App/ena-documentation/issues" title="Open Ideas"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-wishlist"></a>
+<a href="https://github.com/corona-warn-app/cwa-wishlist/issues" title="Open Ideas"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-wishlist"></a>
 
 ## About this Repository
 This repository is a place that shall give community members the opportunity to propose and discuss feature additions and improvements for Corona-Warn-App. This is **not** a standard development repository! 
