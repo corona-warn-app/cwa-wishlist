@@ -23,7 +23,7 @@ Please see the details in our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). All cont
 
 We kindly ask you to make use of the provided issue templates. 
 
-Contributions can be made in german or english.
+Contributions can be made in german or english. You can add your own ideas, further refine ideas of others, discuss pros and cons, evaluate alternatives and vote on ideas by using thumbs-up. To get a sorted list of ideas most liked by the community, you can use this [sorted issue list](https://github.com/corona-warn-app/cwa-wishlist/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 The issues will only be moderated in case violations of the code of conduct are brought to our attention.
 To report such violations, please send an email to [corona-warn-app.opensource@sap.com](mailto:corona-warn-app.opensource@sap.com).
