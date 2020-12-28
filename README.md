@@ -28,6 +28,24 @@ Contributions can be made in german or english. You can add your own ideas, furt
 The issues will only be moderated in case violations of the code of conduct are brought to our attention.
 To report such violations, please send an email to [corona-warn-app.opensource@sap.com](mailto:corona-warn-app.opensource@sap.com).
 
+## Repositories
+
+| Repository          | Description                                                           |
+| ------------------- | --------------------------------------------------------------------- |
+| [cwa-documentation] | Project overview, general documentation, and white papers.            |
+| [cwa-wishlist]      | Community feature requests.                                           |
+| [cwa-app-ios]       | Native iOS app using the Apple/Google exposure notification API.      |
+| [cwa-app-android]   | Native Android app using the Apple/Google exposure notification API.  |
+| [cwa-server]        | Backend implementation for the Apple/Google exposure notification API.|
+| [cwa-verification-server] | Backend implementation of the verification process. |
+
+[cwa-verification-server]: https://github.com/corona-warn-app/cwa-verification-server
+[cwa-documentation]: https://github.com/corona-warn-app/cwa-documentation
+[cwa-wishlist]: https://github.com/corona-warn-app/cwa-wishlist
+[cwa-app-ios]: https://github.com/corona-warn-app/cwa-app-ios
+[cwa-app-android]: https://github.com/corona-warn-app/cwa-app-android
+[cwa-server]: https://github.com/corona-warn-app/cwa-server
+
 ## Licensing
 
 Copyright (c) 2020 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
