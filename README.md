@@ -11,7 +11,7 @@ The repository does not contain any code. The [issue tracker](https://github.com
 
 Issues will be scanned regularly by members of the CWA GitHub organization and discussed with the product management and the RKI. If it is decided to fix an issue or to implement a suggestion from an issue then the issue will be marked up in the originating repository (including in this one) using a label "Fix" + release number. This means that the issue will have a corresponding internal development status which is one of OPEN, ANALYZING, IN PROGRESS, COMPLETED, or CONFIRMED (i.e. tested). The Fix label stays with the issue even after the fix or enhancement has been released and the issue has been closed.
 
-(Note: Originally the [CWA Backlog Repository](https://github.com/corona-warn-app/cwa-backlog) was used to track planned fixes and enhancements. All items from that repository have been redistributed and the now empty [CWA Backlog Repository](https://github.com/corona-warn-app/cwa-backlog) was put into archive status on March 30th, 2021.)"
+(Note: Originally the [CWA Backlog Repository](https://github.com/corona-warn-app/cwa-backlog) was used to track planned fixes and enhancements. All items from that repository have been redistributed and the now empty [CWA Backlog Repository](https://github.com/corona-warn-app/cwa-backlog) was put into archive status on March 30th, 2021.)
 
 ## How to find existing ideas
 
